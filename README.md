@@ -232,4 +232,4 @@ You should see the De Stap naar Gezonder website. Click the green **"Spreek een 
 - **Microphone not working?** Make sure you allow microphone access when your browser asks for permission.
 - **Avatar not appearing?** Check that `agent.py` is running in the first terminal and that your Tavus API key and replica/persona IDs are correct.
 - **"Connection failed" error?** Verify that all API keys in the `.env` file are correct and that you have funds on your OpenAI account.
-- **Website not visible in the background?** Some browsers may block iframe embedding. Try a different browser or check your browser's security settings.
+
